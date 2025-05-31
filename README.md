@@ -27,18 +27,18 @@ Certainly! Here are some descriptions you could use for your React app on GitHub
 - **Data Management**: Local storage (for demo), RESTful APIs (for production)
 - **Deployment**: (Describe how the app is deployed, e.g., GitHub Pages, Netlify, AWS, etc.)
 
-### Installation and Usage:
+# Installation and Usage:
 - Detailed instructions on how to clone, install dependencies, and run the application locally.
 - Guidance on how to use the app effectively, including screenshots or GIFs demonstrating key features.
 
-### Contribution Guidelines:
+# Contribution Guidelines:
 - Steps for contributing to the project, including how to report issues and submit pull requests.
 - Code formatting standards, branch naming conventions, and other development practices.
 
-### Future Enhancements:
+# Future Enhancements:
 - Ideas for future features and improvements, such as integrating with fitness trackers, adding a social sharing feature, etc.
 
-### License:
+# License:
 - Specify the open-source license under which the project is distributed (e.g., MIT License).
 
 ### Credits:
