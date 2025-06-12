@@ -1,5 +1,5 @@
 Certainly! Here are some descriptions you could use for your React app on GitHub:
-
+#######
 ### Repository Description:
 "**Calorie Tracker & Workout Planner** - A React-based web application designed to help users track their daily calorie intake, plan workouts, and manage meals effectively. The app calculates remaining calories based on user input and provides insightful analytics to aid in maintaining a balanced diet and fitness regimen."
 
